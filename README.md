@@ -1,2 +1,2 @@
 ### Play with Travis CI
-By Vladimir Ryumin
+By Vladimir Ryumin.
